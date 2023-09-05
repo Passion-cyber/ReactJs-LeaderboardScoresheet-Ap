@@ -1,7 +1,7 @@
 {
     "MVPScore": [
         {
-            "src": "images/precious-rewind.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946792/Leaderboard/precious-rewind_sm6tt4.jpg",
             "naming": " Igboaja Preciuos",
             "score": "Power-Ranking: 2453pts",
             "track": "UI/UX"
@@ -9,28 +9,28 @@
     ],
     "items": [
         {
-            "src": "images/big-sis.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946658/Leaderboard/big-sis_ly2rng.jpg",
             "naming": "Ndu Jeniffer",
             "score": "Power-Ranking: 2053pts",
             "track": "Front-End",
             "position": "1st"
         },
         {
-            "src": "images/esther-babe.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946759/Leaderboard/esther-babe_hyiair.jpg",
             "naming": "Esther Chidera",
             "score": "Power-Ranking: 2223pts",
             "track": "Back-End",
             "position": "1st"
         },
         {
-            "src": "images/chydel-bro.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946689/Leaderboard/chydel-bro_xyagkf.jpg",
             "naming": "Aneke Harrison",
             "score": "Power-Ranking: 2303pts",
             "track": "Web3",
             "position": "1st"
         },
         {
-            "src": "images/precious-rewind.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946792/Leaderboard/precious-rewind_sm6tt4.jpg",
             "naming": " Igboaja Preciuos",
             "score": "Power-Ranking: 2453pts",
             "track": "UI/UX",
@@ -39,7 +39,7 @@
     ],
     "geniescoreboard": [
         {
-            "src": "images/big-sis.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946658/Leaderboard/big-sis_ly2rng.jpg",
             "naming": "Ndu Jeniffer",
             "score": "Power-Ranking: 2053pts",
             "track": "Front-End",
@@ -47,7 +47,7 @@
             "category": "frontend"
         },
         {
-            "src": "images/esther-babe.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946759/Leaderboard/esther-babe_hyiair.jpg",
             "naming": "Esther Chidera",
             "score": "Power-Ranking: 2223pts",
             "track": "Back-End",
@@ -55,7 +55,7 @@
             "category": "backend"
         },
         {
-            "src": "images/chydel-bro.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946689/Leaderboard/chydel-bro_xyagkf.jpg",
             "naming": "Aneke Harrison",
             "score": "Power-Ranking: 2303pts",
             "track": "Web3",
@@ -63,7 +63,7 @@
             "category": "web3"
         },
         {
-            "src": "images/precious-rewind.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946792/Leaderboard/precious-rewind_sm6tt4.jpg",
             "naming": " Igboaja Precious",
             "score": "Power-Ranking: 2453pts",
             "track": "UI/UX",
@@ -71,7 +71,7 @@
             "category": "ui/ux"
         },
         {
-            "src": "images/jc-realator.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946769/Leaderboard/jc-realator_um9mmb.jpg",
             "naming": "Onwe Solomon",
             "score": "Power-Ranking: 2240pts",
             "track": "Front-End",
@@ -79,7 +79,7 @@
             "category": "frontend"
         },
         {
-            "src": "images/princess-sis.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946800/Leaderboard/princess-sis_makxhk.jpg",
             "naming": "Ciara Elebechukwu",
             "score": "Power-Ranking: 2214pts",
             "track": "Back-End",
@@ -87,7 +87,7 @@
             "category": "backend"
         },
         {
-            "src": "images/onyi-babe.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946791/Leaderboard/onyi-babe_fsbfwy.jpg",
             "naming": "Joy Nwachinemere",
             "score": "Power-Ranking: 2310pts",
             "track": "Web3",
@@ -95,7 +95,7 @@
             "category": "web3"
         },
         {
-            "src": "images/solomon-gee.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946809/Leaderboard/solomon-gee_gxcbve.jpg",
             "naming": " Igbokwe Anthony",
             "score": "Power-Ranking: 2307pts",
             "track": "UI/UX",
@@ -103,7 +103,7 @@
             "category": "ui/ux"
         },
         {
-            "src": "images/dockie-gee.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946759/Leaderboard/dockie-gee_mkreo5.jpg",
             "naming": "Chaarles Izunwanne",
             "score": "Power-Ranking: 2224pts",
             "track": "Front-End",
@@ -111,7 +111,7 @@
             "category": "frontend"
         },
         {
-            "src": "images/franklyn.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946761/Leaderboard/franklyn_nighfq.jpg",
             "naming": "Michael Agu",
             "score": "Power-Ranking: 2117pts",
             "track": "Back-End",
@@ -119,7 +119,7 @@
             "category": "backend"
         },
         {
-            "src": "images/godwin-gee.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946761/Leaderboard/godwin-gee_svvf9g.jpg",
             "naming": "Gospel Christopher",
             "score": "Power-Ranking: 2284pts",
             "track": "Web3",
@@ -127,7 +127,7 @@
             "category": "web3"
         },
         {
-            "src": "images/ment.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946782/Leaderboard/ment_mlmhft.jpg",
             "naming": "Chidnma Ogbodo",
             "score": "Power-Ranking: 2289pts",
             "track": "UI/UX",
@@ -135,7 +135,7 @@
             "category": "ui/ux"
         },
         {
-            "src": "images/favour-gee.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946760/Leaderboard/favour-gee_fofnzd.jpg",
             "naming": "Obiagu Francis",
             "score": "Power-Ranking: 2104pts",
             "track": "Front-End",
@@ -143,7 +143,7 @@
             "category": "frontend"
         },
         {
-            "src": "images/blessing-inec.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946675/Leaderboard/blessing-inec_ty3v0c.jpg",
             "naming": "Bisola Njideka",
             "score": "Power-Ranking: 2108pts",
             "track": "Back-End",
@@ -151,7 +151,7 @@
             "category": "backend"
         },
         {
-            "src": "images/ij-babe.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946762/Leaderboard/ij-babe_mpzigf.jpg",
             "naming": "Ngene Chizaramekpere",
             "score": "Power-Ranking: 2241pts",
             "track": "Web3",
@@ -159,7 +159,7 @@
             "category": "web3"
         },
         {
-            "src": "images/makuo-babe.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946782/Leaderboard/makuo-babe_yxfgh3.jpg",
             "naming": "Makuochukwu Ogili",
             "score": "Power-Ranking: 2242pts",
             "track": "UI/UX",
@@ -167,7 +167,7 @@
             "category": "ui/ux"
         },
         {
-            "src": "images/neche-babe.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946791/Leaderboard/neche-babe_w0jv26.jpg",
             "naming": "Prisca Nwaokereke",
             "score": "Power-Ranking: 2017pts",
             "track": "Front-End",
@@ -175,7 +175,7 @@
             "category": "frontend"
         },
         {
-            "src": "images/ahmed-gee.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946643/Leaderboard/ahmed-gee_osyflc.jpg",
             "naming": "Nkunku Christopher",
             "score": "Power-Ranking: 2101pts",
             "track": "Back-End",
@@ -183,7 +183,7 @@
             "category": "backend"
         },
         {
-            "src": "images/mabel.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946770/Leaderboard/mabel_iw7khu.jpg",
             "naming": "Omumuaghugike Mabel",
             "score": "Power-Ranking: 2014pts",
             "track": "Web3",
@@ -191,7 +191,7 @@
             "category": "web3"
         },
         {
-            "src": "images/irene-babe.JPG",
+            "src": "https://res.cloudinary.com/dysznjd1z/image/upload/v1693946769/Leaderboard/irene-babe_eqhb6m.jpg",
             "naming": "Irene Nzejekwu",
             "score": "Power-Ranking: 2142pts",
             "track": "UI/UX",
